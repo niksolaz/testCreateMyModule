@@ -1,0 +1,22 @@
+{
+    "name": "npm-create-niksolaz",
+    "version": "1.0.0",
+    "description": "test for my first npm module",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/niksolaz/testCreateMyModule.git"
+    },
+    "keywords": [
+        "javascript"
+    ],
+    "author": "Nicola Solazzo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/niksolaz/testCreateMyModule/issues"
+    },
+    "homepage": "https://github.com/niksolaz/testCreateMyModule#readme"
+}
